@@ -1,0 +1,4 @@
+venv/
+
+graph-db-benchmark/.env
+graph-db-benchmark/src/__pycache__/
