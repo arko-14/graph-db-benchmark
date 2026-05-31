@@ -1,0 +1,402 @@
+[
+  {
+    "id": "skill_0",
+    "name": "Python"
+  },
+  {
+    "id": "skill_1",
+    "name": "FastAPI"
+  },
+  {
+    "id": "skill_2",
+    "name": "Neo4j"
+  },
+  {
+    "id": "skill_3",
+    "name": "Memgraph"
+  },
+  {
+    "id": "skill_4",
+    "name": "Docker"
+  },
+  {
+    "id": "skill_5",
+    "name": "Kubernetes"
+  },
+  {
+    "id": "skill_6",
+    "name": "Machine Learning"
+  },
+  {
+    "id": "skill_7",
+    "name": "LLM"
+  },
+  {
+    "id": "skill_8",
+    "name": "RAG"
+  },
+  {
+    "id": "skill_9",
+    "name": "SQL"
+  },
+  {
+    "id": "skill_10",
+    "name": "Redis"
+  },
+  {
+    "id": "skill_11",
+    "name": "Kafka"
+  },
+  {
+    "id": "skill_12",
+    "name": "System Design"
+  },
+  {
+    "id": "skill_13",
+    "name": "React"
+  },
+  {
+    "id": "skill_14",
+    "name": "Node.js"
+  },
+  {
+    "id": "skill_15",
+    "name": "LangChain"
+  },
+  {
+    "id": "skill_16",
+    "name": "LangGraph"
+  },
+  {
+    "id": "skill_17",
+    "name": "Pandas"
+  },
+  {
+    "id": "skill_18",
+    "name": "PyTorch"
+  },
+  {
+    "id": "skill_19",
+    "name": "AWS"
+  },
+  {
+    "id": "skill_20",
+    "name": "Skill_20"
+  },
+  {
+    "id": "skill_21",
+    "name": "Skill_21"
+  },
+  {
+    "id": "skill_22",
+    "name": "Skill_22"
+  },
+  {
+    "id": "skill_23",
+    "name": "Skill_23"
+  },
+  {
+    "id": "skill_24",
+    "name": "Skill_24"
+  },
+  {
+    "id": "skill_25",
+    "name": "Skill_25"
+  },
+  {
+    "id": "skill_26",
+    "name": "Skill_26"
+  },
+  {
+    "id": "skill_27",
+    "name": "Skill_27"
+  },
+  {
+    "id": "skill_28",
+    "name": "Skill_28"
+  },
+  {
+    "id": "skill_29",
+    "name": "Skill_29"
+  },
+  {
+    "id": "skill_30",
+    "name": "Skill_30"
+  },
+  {
+    "id": "skill_31",
+    "name": "Skill_31"
+  },
+  {
+    "id": "skill_32",
+    "name": "Skill_32"
+  },
+  {
+    "id": "skill_33",
+    "name": "Skill_33"
+  },
+  {
+    "id": "skill_34",
+    "name": "Skill_34"
+  },
+  {
+    "id": "skill_35",
+    "name": "Skill_35"
+  },
+  {
+    "id": "skill_36",
+    "name": "Skill_36"
+  },
+  {
+    "id": "skill_37",
+    "name": "Skill_37"
+  },
+  {
+    "id": "skill_38",
+    "name": "Skill_38"
+  },
+  {
+    "id": "skill_39",
+    "name": "Skill_39"
+  },
+  {
+    "id": "skill_40",
+    "name": "Skill_40"
+  },
+  {
+    "id": "skill_41",
+    "name": "Skill_41"
+  },
+  {
+    "id": "skill_42",
+    "name": "Skill_42"
+  },
+  {
+    "id": "skill_43",
+    "name": "Skill_43"
+  },
+  {
+    "id": "skill_44",
+    "name": "Skill_44"
+  },
+  {
+    "id": "skill_45",
+    "name": "Skill_45"
+  },
+  {
+    "id": "skill_46",
+    "name": "Skill_46"
+  },
+  {
+    "id": "skill_47",
+    "name": "Skill_47"
+  },
+  {
+    "id": "skill_48",
+    "name": "Skill_48"
+  },
+  {
+    "id": "skill_49",
+    "name": "Skill_49"
+  },
+  {
+    "id": "skill_50",
+    "name": "Skill_50"
+  },
+  {
+    "id": "skill_51",
+    "name": "Skill_51"
+  },
+  {
+    "id": "skill_52",
+    "name": "Skill_52"
+  },
+  {
+    "id": "skill_53",
+    "name": "Skill_53"
+  },
+  {
+    "id": "skill_54",
+    "name": "Skill_54"
+  },
+  {
+    "id": "skill_55",
+    "name": "Skill_55"
+  },
+  {
+    "id": "skill_56",
+    "name": "Skill_56"
+  },
+  {
+    "id": "skill_57",
+    "name": "Skill_57"
+  },
+  {
+    "id": "skill_58",
+    "name": "Skill_58"
+  },
+  {
+    "id": "skill_59",
+    "name": "Skill_59"
+  },
+  {
+    "id": "skill_60",
+    "name": "Skill_60"
+  },
+  {
+    "id": "skill_61",
+    "name": "Skill_61"
+  },
+  {
+    "id": "skill_62",
+    "name": "Skill_62"
+  },
+  {
+    "id": "skill_63",
+    "name": "Skill_63"
+  },
+  {
+    "id": "skill_64",
+    "name": "Skill_64"
+  },
+  {
+    "id": "skill_65",
+    "name": "Skill_65"
+  },
+  {
+    "id": "skill_66",
+    "name": "Skill_66"
+  },
+  {
+    "id": "skill_67",
+    "name": "Skill_67"
+  },
+  {
+    "id": "skill_68",
+    "name": "Skill_68"
+  },
+  {
+    "id": "skill_69",
+    "name": "Skill_69"
+  },
+  {
+    "id": "skill_70",
+    "name": "Skill_70"
+  },
+  {
+    "id": "skill_71",
+    "name": "Skill_71"
+  },
+  {
+    "id": "skill_72",
+    "name": "Skill_72"
+  },
+  {
+    "id": "skill_73",
+    "name": "Skill_73"
+  },
+  {
+    "id": "skill_74",
+    "name": "Skill_74"
+  },
+  {
+    "id": "skill_75",
+    "name": "Skill_75"
+  },
+  {
+    "id": "skill_76",
+    "name": "Skill_76"
+  },
+  {
+    "id": "skill_77",
+    "name": "Skill_77"
+  },
+  {
+    "id": "skill_78",
+    "name": "Skill_78"
+  },
+  {
+    "id": "skill_79",
+    "name": "Skill_79"
+  },
+  {
+    "id": "skill_80",
+    "name": "Skill_80"
+  },
+  {
+    "id": "skill_81",
+    "name": "Skill_81"
+  },
+  {
+    "id": "skill_82",
+    "name": "Skill_82"
+  },
+  {
+    "id": "skill_83",
+    "name": "Skill_83"
+  },
+  {
+    "id": "skill_84",
+    "name": "Skill_84"
+  },
+  {
+    "id": "skill_85",
+    "name": "Skill_85"
+  },
+  {
+    "id": "skill_86",
+    "name": "Skill_86"
+  },
+  {
+    "id": "skill_87",
+    "name": "Skill_87"
+  },
+  {
+    "id": "skill_88",
+    "name": "Skill_88"
+  },
+  {
+    "id": "skill_89",
+    "name": "Skill_89"
+  },
+  {
+    "id": "skill_90",
+    "name": "Skill_90"
+  },
+  {
+    "id": "skill_91",
+    "name": "Skill_91"
+  },
+  {
+    "id": "skill_92",
+    "name": "Skill_92"
+  },
+  {
+    "id": "skill_93",
+    "name": "Skill_93"
+  },
+  {
+    "id": "skill_94",
+    "name": "Skill_94"
+  },
+  {
+    "id": "skill_95",
+    "name": "Skill_95"
+  },
+  {
+    "id": "skill_96",
+    "name": "Skill_96"
+  },
+  {
+    "id": "skill_97",
+    "name": "Skill_97"
+  },
+  {
+    "id": "skill_98",
+    "name": "Skill_98"
+  },
+  {
+    "id": "skill_99",
+    "name": "Skill_99"
+  }
+]

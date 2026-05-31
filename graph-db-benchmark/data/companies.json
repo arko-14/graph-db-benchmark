@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "company_0",
+    "name": "Kramer, Myers and Bennett",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_1",
+    "name": "Ward-Sheppard",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_2",
+    "name": "Gomez, Spence and Weeks",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_3",
+    "name": "Patton Group",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_4",
+    "name": "Martinez-Ramirez",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_5",
+    "name": "Hall Inc",
+    "industry": "AI"
+  },
+  {
+    "id": "company_6",
+    "name": "Maxwell Inc",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_7",
+    "name": "Caldwell, Reed and Frost",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_8",
+    "name": "Christensen-Hicks",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_9",
+    "name": "Adams, Allen and Wilson",
+    "industry": "AI"
+  },
+  {
+    "id": "company_10",
+    "name": "Williams-Benson",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_11",
+    "name": "Martin, Smith and Washington",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_12",
+    "name": "Dixon-Mitchell",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_13",
+    "name": "Castro, Vasquez and Hughes",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_14",
+    "name": "Turner, White and Schultz",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_15",
+    "name": "Brown, Rivera and Guzman",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_16",
+    "name": "Wall PLC",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_17",
+    "name": "Taylor, Miles and Andrews",
+    "industry": "AI"
+  },
+  {
+    "id": "company_18",
+    "name": "Schneider-Turner",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_19",
+    "name": "Larson-White",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_20",
+    "name": "Schultz, Mccarty and Hernandez",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_21",
+    "name": "Greene and Sons",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_22",
+    "name": "Wiggins, Faulkner and Cannon",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_23",
+    "name": "Pugh, Sullivan and Hall",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_24",
+    "name": "Wagner Ltd",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_25",
+    "name": "Luna, Robertson and Phillips",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_26",
+    "name": "Davis-Moore",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_27",
+    "name": "Brown-Davis",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_28",
+    "name": "Moreno, James and Jefferson",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_29",
+    "name": "Tucker-Weber",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_30",
+    "name": "Rasmussen PLC",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_31",
+    "name": "Thompson, Flores and Brewer",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_32",
+    "name": "Chase, Wood and Baker",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_33",
+    "name": "Hammond LLC",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_34",
+    "name": "Sims-Cannon",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_35",
+    "name": "Hernandez, Khan and Smith",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_36",
+    "name": "Roy and Sons",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_37",
+    "name": "Cannon Ltd",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_38",
+    "name": "Schultz Group",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_39",
+    "name": "Gay-Wright",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_40",
+    "name": "Mathis, Dixon and Snow",
+    "industry": "AI"
+  },
+  {
+    "id": "company_41",
+    "name": "Wolf-Miller",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_42",
+    "name": "Park Inc",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_43",
+    "name": "Hawkins, Griffin and Young",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_44",
+    "name": "Brown-Johnson",
+    "industry": "AI"
+  },
+  {
+    "id": "company_45",
+    "name": "Hernandez, Baxter and Liu",
+    "industry": "AI"
+  },
+  {
+    "id": "company_46",
+    "name": "Marshall, Rodriguez and Doyle",
+    "industry": "AI"
+  },
+  {
+    "id": "company_47",
+    "name": "Hunt-Smith",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_48",
+    "name": "Gibson, May and Miller",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_49",
+    "name": "Green and Sons",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_50",
+    "name": "Moore Group",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_51",
+    "name": "Manning Group",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_52",
+    "name": "Abbott-Davidson",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_53",
+    "name": "Smith-Day",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_54",
+    "name": "Welch PLC",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_55",
+    "name": "Thomas-Gibson",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_56",
+    "name": "Bell-Holt",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_57",
+    "name": "Lee, Wallace and Cunningham",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_58",
+    "name": "Byrd, Walker and Ayers",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_59",
+    "name": "Frederick, Wagner and Sanchez",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_60",
+    "name": "Mckay-Chan",
+    "industry": "AI"
+  },
+  {
+    "id": "company_61",
+    "name": "Dixon, Cherry and Barnes",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_62",
+    "name": "Reynolds-Underwood",
+    "industry": "AI"
+  },
+  {
+    "id": "company_63",
+    "name": "Boone and Sons",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_64",
+    "name": "Long, Johnson and Hernandez",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_65",
+    "name": "Turner-Foster",
+    "industry": "AI"
+  },
+  {
+    "id": "company_66",
+    "name": "Tyler, Sullivan and Trujillo",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_67",
+    "name": "Vaughn Ltd",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_68",
+    "name": "Joyce and Sons",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_69",
+    "name": "Grant Inc",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_70",
+    "name": "Middleton Group",
+    "industry": "AI"
+  },
+  {
+    "id": "company_71",
+    "name": "Stone, Hodges and Ramirez",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_72",
+    "name": "Clark-Lawson",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_73",
+    "name": "Thompson-Medina",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_74",
+    "name": "Taylor LLC",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_75",
+    "name": "Miller, Guzman and Garcia",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_76",
+    "name": "Larson, Moreno and Copeland",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_77",
+    "name": "Davis-Brown",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_78",
+    "name": "Krueger, Bishop and Adkins",
+    "industry": "AI"
+  },
+  {
+    "id": "company_79",
+    "name": "Ayers-Hughes",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_80",
+    "name": "Clark-Sullivan",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_81",
+    "name": "Wagner-Randall",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_82",
+    "name": "Sexton-Hoffman",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_83",
+    "name": "Green, Hernandez and Cameron",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_84",
+    "name": "Jones-Clay",
+    "industry": "AI"
+  },
+  {
+    "id": "company_85",
+    "name": "Hunter-Morgan",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_86",
+    "name": "Barnes, Chavez and Bryan",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_87",
+    "name": "Garcia, Grant and Cooper",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_88",
+    "name": "Owens-Lane",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_89",
+    "name": "Ayala Group",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_90",
+    "name": "Daniel Ltd",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_91",
+    "name": "House, Stewart and Willis",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_92",
+    "name": "Ramirez-Boyle",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_93",
+    "name": "Rogers, Gibson and Brown",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_94",
+    "name": "Keller-Garcia",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_95",
+    "name": "Rodriguez-Myers",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_96",
+    "name": "Weaver, Valdez and Nichols",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_97",
+    "name": "Rodriguez-Holloway",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_98",
+    "name": "Rice Ltd",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_99",
+    "name": "Smith-Vargas",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_100",
+    "name": "Reynolds, Wright and Fox",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_101",
+    "name": "Woodward-Martinez",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_102",
+    "name": "Payne, Bowman and Waller",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_103",
+    "name": "Carlson LLC",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_104",
+    "name": "Cortez Group",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_105",
+    "name": "Terry Inc",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_106",
+    "name": "Howell Ltd",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_107",
+    "name": "Johnson, Hicks and Lee",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_108",
+    "name": "Scott, Nichols and Ryan",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_109",
+    "name": "Perez-Wilson",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_110",
+    "name": "Watson, Diaz and Montoya",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_111",
+    "name": "Escobar-Cisneros",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_112",
+    "name": "Mitchell-Nichols",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_113",
+    "name": "Chapman Ltd",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_114",
+    "name": "Haynes, Dyer and Mcgee",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_115",
+    "name": "Woods, Cortez and Burnett",
+    "industry": "AI"
+  },
+  {
+    "id": "company_116",
+    "name": "Melton PLC",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_117",
+    "name": "Miller LLC",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_118",
+    "name": "Williams-Little",
+    "industry": "AI"
+  },
+  {
+    "id": "company_119",
+    "name": "Walsh, King and Mclean",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_120",
+    "name": "Brown and Sons",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_121",
+    "name": "Morris, Morrison and Johnson",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_122",
+    "name": "Brown and Sons",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_123",
+    "name": "Jordan-Morris",
+    "industry": "AI"
+  },
+  {
+    "id": "company_124",
+    "name": "Gomez-Braun",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_125",
+    "name": "Hammond Inc",
+    "industry": "AI"
+  },
+  {
+    "id": "company_126",
+    "name": "Simmons Group",
+    "industry": "AI"
+  },
+  {
+    "id": "company_127",
+    "name": "Roberts, Hart and Jacobs",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_128",
+    "name": "Stafford-Brock",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_129",
+    "name": "Stevenson Ltd",
+    "industry": "AI"
+  },
+  {
+    "id": "company_130",
+    "name": "Mercado Inc",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_131",
+    "name": "Palmer, Brown and Montgomery",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_132",
+    "name": "Williams, Malone and Greene",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_133",
+    "name": "Stevens, Hendricks and Fitzgerald",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_134",
+    "name": "Sparks, Jackson and Mcdonald",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_135",
+    "name": "Adams Ltd",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_136",
+    "name": "Rangel, Farley and Moore",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_137",
+    "name": "Sexton-Peterson",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_138",
+    "name": "Knox-Roberts",
+    "industry": "AI"
+  },
+  {
+    "id": "company_139",
+    "name": "Bates-Garrison",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_140",
+    "name": "Hess, Goodman and Smith",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_141",
+    "name": "Mcfarland LLC",
+    "industry": "AI"
+  },
+  {
+    "id": "company_142",
+    "name": "Smith-Conway",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_143",
+    "name": "Mason-Taylor",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_144",
+    "name": "Reid Ltd",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_145",
+    "name": "Caldwell-Pugh",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_146",
+    "name": "Guerra-Alvarez",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_147",
+    "name": "Leonard-Smith",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_148",
+    "name": "Hill, Hill and Holt",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_149",
+    "name": "Williams-Sanchez",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_150",
+    "name": "Riley and Sons",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_151",
+    "name": "King, Warren and Graham",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_152",
+    "name": "Flores and Sons",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_153",
+    "name": "Torres, Clark and Bentley",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_154",
+    "name": "Banks, King and Pruitt",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_155",
+    "name": "Coleman LLC",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_156",
+    "name": "Paul, Burnett and Jimenez",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_157",
+    "name": "Stokes-Watts",
+    "industry": "AI"
+  },
+  {
+    "id": "company_158",
+    "name": "Hart-Hurley",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_159",
+    "name": "Cochran, Thompson and Martin",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_160",
+    "name": "Morrison, Rice and Bradley",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_161",
+    "name": "Morris-Bonilla",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_162",
+    "name": "Sanchez, Smith and Ramirez",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_163",
+    "name": "Kelly-Wilson",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_164",
+    "name": "Holland, Thornton and Gilbert",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_165",
+    "name": "Moore, Johnson and Wilson",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_166",
+    "name": "Rogers-Pierce",
+    "industry": "AI"
+  },
+  {
+    "id": "company_167",
+    "name": "Blackburn-Ward",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_168",
+    "name": "Doyle, Wright and Rogers",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_169",
+    "name": "Cohen, Carpenter and Simmons",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_170",
+    "name": "Allen and Sons",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_171",
+    "name": "Sanchez-Brooks",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_172",
+    "name": "Rodriguez PLC",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_173",
+    "name": "Jordan-Fernandez",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_174",
+    "name": "Maxwell and Sons",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_175",
+    "name": "Allen, Ward and Fleming",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_176",
+    "name": "Oconnell PLC",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_177",
+    "name": "Decker-Young",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_178",
+    "name": "Blackburn-Randolph",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_179",
+    "name": "Wood, Reyes and Schultz",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_180",
+    "name": "Beltran-Solomon",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_181",
+    "name": "Thomas Group",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_182",
+    "name": "Potter-Coleman",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_183",
+    "name": "Mueller LLC",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_184",
+    "name": "Alvarez-Boyer",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_185",
+    "name": "Anderson-Hodge",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_186",
+    "name": "Escobar Inc",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_187",
+    "name": "Tran, Sanchez and Boyer",
+    "industry": "AI"
+  },
+  {
+    "id": "company_188",
+    "name": "Jenkins, Rodriguez and Newman",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_189",
+    "name": "Thompson-Cox",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_190",
+    "name": "Grant, Benson and Pearson",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_191",
+    "name": "Tran-Taylor",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_192",
+    "name": "Jenkins and Sons",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_193",
+    "name": "Santana and Sons",
+    "industry": "FinTech"
+  },
+  {
+    "id": "company_194",
+    "name": "Fischer, Cannon and Anthony",
+    "industry": "EdTech"
+  },
+  {
+    "id": "company_195",
+    "name": "White, Jones and Trujillo",
+    "industry": "SaaS"
+  },
+  {
+    "id": "company_196",
+    "name": "Riley-Mosley",
+    "industry": "Energy"
+  },
+  {
+    "id": "company_197",
+    "name": "White PLC",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_198",
+    "name": "Gonzalez, Jordan and Sanchez",
+    "industry": "Healthcare"
+  },
+  {
+    "id": "company_199",
+    "name": "Barker-Smith",
+    "industry": "EdTech"
+  }
+]
